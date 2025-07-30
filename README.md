@@ -80,5 +80,5 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=briz-felipe.briz-felipe&" />
+  <img src="https://briz-felipe.github.io/briz-felipe/snake.svg" alt="Snake animation" />
 </div>
