@@ -4,8 +4,6 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 
 ---
 
-### 🛠️ Tecnologias que utilizo
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
@@ -50,16 +48,6 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 
 ---
 
-### 🚀 Projetos em destaque
-
-- 📊 **Carrinhos Abandonados** — Pipeline de dados que envia dados para o DynamoDB, reduzindo custos de leitura do S3.
-- 🏷️ **Sistema de Cupons** — API robusta com regras de desconto, múltiplas formas de pagamento e controle por cliente.
-- 🧠 **MGM Martech** — Microsserviço para geração de convites e controle de conversões com autenticação JWT.
-
----
-
-### 📬 Entre em contato
-
 <div align="left">
   <a href="https://www.linkedin.com/in/felipebriz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
@@ -77,8 +65,6 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 
 ---
 
-### 📈 Estatísticas
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=briz-felipe&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briz-felipe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" />
@@ -88,8 +74,6 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 </div>
 
 ---
-
-### 🐍 Snake game contribution
 
 <img src="https://raw.githubusercontent.com/briz-felipe/briz-felipe/output/snake.svg" alt="Snake animation" />
 
