@@ -82,7 +82,3 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=briz-felipe.briz-felipe&" />
 </div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
