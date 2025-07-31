@@ -1,8 +1,38 @@
 ## 👋 Olá! Eu sou o Felipe Briz
 
-Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Python. Tenho experiência em criação de APIs modernas, processamento de dados e integração com serviços AWS. Atualmente trabalho com **FastAPI**, **Django**, **SQLModel** e **Airflow**, e estou sempre explorando novas formas de entregar valor com eficiência.
+Sou **Desenvolvedor Sênior no time de Martech da ClickBus**, com foco em construir soluções escaláveis e de alta performance para integrações de marketing, automações e engenharia de dados. Tenho experiência sólida com Python, APIs REST, orquestração de dados e colaboração entre times multidisciplinares.
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats-red-five-42.vercel.app/api?username=briz-felipe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=false&order=1" height="160" />
+  
+  <img src="https://github-readme-stats-red-five-42.vercel.app/api/top-langs?username=briz-felipe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="160" />
+</div>
+
+---
+
+## 💼 Sobre mim
+
+Atualmente atuo como **Desenvolvedor Sênior no time de Martech da ClickBus**, sendo responsável por projetar e implementar APIs poderosas e escaláveis para uma ampla variedade de aplicações — desde integrações entre ferramentas e nosso data lake até suporte direto a campanhas de marketing.
+
+Tenho forte atuação na construção de **pipelines de dados robustos**, com destaque para o uso de **Airflow**, além de automações complexas com **Python**. Colaboro ativamente com os times de **engenharia de dados** e **engenharia de software**, contribuindo para soluções integradas e de alto desempenho.
+
+---
+
+## 🚀 Tecnologias & Habilidades
+
+- Desenvolvimento de **APIs RESTful** com **FastAPI** e **Django**
+- Criação de sistemas internos para gerenciamento e monitoramento
+- Pipelines de dados com **Airflow**
+- Integrações com **GA4**, **Amplitude**, **CRM**
+- Automação de processos com **Python**
+- Colaboração com **times de frontend** e integração contínua
+
+---
+
+## 🧠 Tecnologias que uso
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
@@ -48,6 +78,9 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
 
 ---
 
+
+## 📫 Entre em contato comigo
+
 <div align="left">
   <a href="https://www.linkedin.com/in/felipebriz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
@@ -56,29 +89,9 @@ Sou desenvolvedor backend apaixonado por construir soluções escaláveis com Py
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
   <a href="mailto:briz.felipe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
   <a href="https://wa.me/5511978187157" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briz-felipe&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briz-felipe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" />
-  <img src="https://streak-stats.demolab.com?user=briz-felipe&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=briz-felipe&theme=dracula&column=4&row=3&margin-w=10&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=briz-felipe&radius=16&theme=dracula&area=true&order=5" height="200" />
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/briz-felipe/briz-felipe/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-  <img src="https://briz-felipe.github.io/briz-felipe/snake.svg" alt="Snake animation" />
 </div>
