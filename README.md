@@ -3,14 +3,11 @@
 Sou **Desenvolvedor Sênior no time de Martech da ClickBus**, com foco em construir soluções escaláveis e de alta performance para integrações de marketing, automações e engenharia de dados. Tenho experiência sólida com Python, APIs REST, orquestração de dados e colaboração entre times multidisciplinares.
 
 ---
-
 <div align="center">
   <img src="https://github-readme-stats-red-five-42.vercel.app/api?username=briz-felipe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-BR&hide_border=false" height="160" />
   
   <img src="https://github-readme-stats-red-five-42.vercel.app/api/top-langs?username=briz-felipe&locale=pt-BR&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="160" />
 </div>
-
-
 ---
 
 ## 💼 Sobre mim
