@@ -14,7 +14,7 @@
 
 ## 💼 O que eu construo
 
-- **Data products**: plataformas internas sobre bases analíticas — segmentação de clientes, Customer 360, catálogos de dados como contrato gerenciado
+- **Data products**: plataformas internas sobre bases analíticas — CDP, catálogo de rotas e visões agregadas para times de CX, Comercial e Financeiro
 - **Serviços ligados aos data products**: APIs em **Go** e **Python/FastAPI**, workers de processamento em massa, SPAs em React para os times operarem em cima do dado
 - **Arquitetura orientada a eventos**: integrações entre serviços via plataforma de eventos, com contrato versionado, idempotência de ponta a ponta e reconciliação assíncrona
 - **Pipelines de dados** no **Airflow**: cargas incrementais lakehouse → Postgres, watermarks, schema evolution e índices como responsabilidade da carga
