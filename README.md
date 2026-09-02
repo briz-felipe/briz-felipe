@@ -54,11 +54,14 @@ Todo projeto nasce padronizado — infra não é etapa posterior:
 
 ---
 
-## 🤖 Desenvolvimento assistido por IA
+## 🤖 Engenharia AI-first com processo
 
-- Fluxos com **Claude Code** e **MCP servers** no dia a dia de engenharia
-- **CLAUDE.md** e memória persistente como contexto de longo prazo por projeto
-- IA amplifica quem tem fundamento: contrato claro, testes e revisão continuam sendo o alicerce
+Atuo numa empresa **AI-first**, onde desenvolvimento assistido por IA anda junto com processo rigoroso de documentação:
+
+- **RFCs e Design Docs** como porta de entrada de toda mudança relevante: proposta escrita, alternativas descartadas registradas e **aprovação auditada por todo o time técnico** antes do código
+- **Documentação como artefato de desenvolvimento**: decisões, contratos de integração e registros de sessão versionados no Git junto do código — o raciocínio sobrevive, não só o diff
+- Fluxos com **Claude Code** e **MCP servers** no dia a dia, com **CLAUDE.md** e memória persistente como contexto de longo prazo por projeto
+- IA amplifica quem tem fundamento: contrato claro, testes e revisão humana continuam sendo o alicerce
 
 ---
 
